@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc010c29f5f0a4adda4281082288b49b",
+    "revision": "975b8c1f8c7dc39520f0bb45e7464ff1",
     "url": "/resume/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/css/2.8ce86be7.chunk.css"
   },
   {
-    "revision": "1c5033a6fdcf8fda8dbd",
+    "revision": "f37e21c4ed1381d1c0ec",
     "url": "/resume/static/css/main.83b71881.chunk.css"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/js/2.45c68916.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c5033a6fdcf8fda8dbd",
-    "url": "/resume/static/js/main.6ea97026.chunk.js"
+    "revision": "f37e21c4ed1381d1c0ec",
+    "url": "/resume/static/js/main.c760c3e0.chunk.js"
   },
   {
     "revision": "8c1d914a1677cea53979",
     "url": "/resume/static/js/runtime-main.75d8c91e.js"
   },
   {
-    "revision": "1f669089ed39c85024142de53c5b8253",
-    "url": "/resume/static/media/Resume_2.1f669089.jpg"
+    "revision": "7f23972d50b63ed948a0e316280ab65d",
+    "url": "/resume/static/media/Resume_2.7f23972d.jpg"
   }
 ]);
